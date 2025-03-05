@@ -3,7 +3,7 @@ entries:
   vcluster:
   - apiVersion: v2
     appVersion: 0.23.0
-    created: "2025-03-05T10:49:20.203231565+05:30"
+    created: "2025-03-05T11:27:32.786979018+05:30"
     description: vcluster - Virtual Kubernetes Clusters
     digest: e65875b1fd5ff6a2bc13259039f8cd62f2b6cc506e6f859b2d8bb334531196f8
     home: https://vcluster.com
@@ -31,4 +31,4 @@ entries:
     urls:
     - vcluster-0.23.0.tgz
     version: 0.23.0
-generated: "2025-03-05T10:49:20.199496153+05:30"
+generated: "2025-03-05T11:27:32.783817776+05:30"
