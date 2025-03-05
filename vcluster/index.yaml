@@ -3,7 +3,7 @@ entries:
   vcluster:
   - apiVersion: v2
     appVersion: 0.23.0
-    created: "2025-03-05T15:23:18.050452024+05:30"
+    created: "2025-03-05T15:28:15.634316873+05:30"
     description: vcluster - Virtual Kubernetes Clusters
     digest: e65875b1fd5ff6a2bc13259039f8cd62f2b6cc506e6f859b2d8bb334531196f8
     home: https://vcluster.com
@@ -29,6 +29,6 @@ entries:
     - https://github.com/loft-sh/vcluster
     type: application
     urls:
-    - https://raw.githubusercontent.com/Prakhar824/test-helm/refs/heads/main/vcluster/vcluster-0.23.0.tgz/vcluster-0.23.0.tgz
+    - https://raw.githubusercontent.com/Prakhar824/test-helm/refs/heads/main/vcluster/vcluster-0.23.0.tgz
     version: 0.23.0
-generated: "2025-03-05T15:23:18.047360639+05:30"
+generated: "2025-03-05T15:28:15.631189765+05:30"
